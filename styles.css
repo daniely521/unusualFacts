@@ -8,12 +8,12 @@ body {
 }
 
 h1 {
-    color: rgb(209, 153, 74);
+    color: rgb(54, 158, 137);
     font-size: 29pt;
 }
 
 p {
-    color: rgb(52, 94, 130);
+    color: rgb(111, 54, 25);
     font-size: 15pt;
 }
 
@@ -21,7 +21,7 @@ p {
     background-color: #d1cfff;
     padding: 20px;
     width: 550px;
-    height: 330px;
+    height: 370px;
     border-radius: 15px;
     margin: auto;
     margin-top: 50px;
@@ -97,4 +97,5 @@ p {
 
 #fact {
     font-weight: normal;
+    color: #15821d;
 }
