@@ -21,6 +21,7 @@ p {
     background-color: #d1cfff;
     padding: 20px;
     width: 550px;
+    height: 330px;
     border-radius: 15px;
     margin: auto;
     margin-top: 50px;
@@ -32,6 +33,7 @@ p {
     border: none;
     margin: 5px;
     width: 110px;
+    font-size: 14px;
     background-color: #d1ffd4;
     color: rgb(148, 92, 92);
     transition: background-color 0.3s ease, box-shadow 0.3s ease;
@@ -48,7 +50,7 @@ p {
     border: none;
     width: 120px;
     margin: 5px;
-    font-size: 10pt;
+    font-size: 12pt;
     background-color: #e7ff88;
     color: rgb(148, 92, 92);
     text-align: center;
@@ -91,4 +93,8 @@ p {
     width: 80px;
     background-color: #d1ffd4;
     color: rgb(148, 92, 92);
+}
+
+#fact {
+    font-weight: normal;
 }
